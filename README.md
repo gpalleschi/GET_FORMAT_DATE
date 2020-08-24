@@ -25,7 +25,7 @@ ORACLE 10 or upper
 
 ----
 
-## Samples:
+## Samples :
            
            GET_FORMAT_DATE( '2020/08/24',null )
 
@@ -46,3 +46,9 @@ ORACLE 10 or upper
            result:
            -----------
            null  
+
+----
+
+## License :
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 License - see the [LICENSE](LICENSE) file for details
